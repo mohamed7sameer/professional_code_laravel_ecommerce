@@ -75,7 +75,7 @@
                         <div class="nov-html col-xl-4 col-lg-4 col-md-4">
                             <div class="block">
                                 <div class="block_content">
-                                    <p class="logo-footer"><img src="{{asset('assets/images/logo-footer.png')}}" alt="logo" width="167" height="23" /></p>
+                                    <p class="logo-footer"><img src="{{asset('assets/front/images/logo-footer.png')}}" alt="logo" width="167" height="23" /></p>
                                     <div class="data-contact d-flex align-self-stretch">
                                         <div class="title-icon">support<i class="icon-support icon-address"></i></div>
                                         <div class="content-data-contact">

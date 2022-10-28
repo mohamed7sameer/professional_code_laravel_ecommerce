@@ -198,7 +198,7 @@
                                                                         <li><a href="/savemart/en/index.php?controller=page-not-found">404 Page</a></li>
                                                                         <li><a href="/savemart/index.php?controller=contact">Contact Us Page</a></li>
                                                                         <li><a href="/savemart/index.php?id_cms=4&controller=cms">About Us Page</a></li>
-                                                                    </ul></div></li><li class="item col-md-3 mw-40 html" ><div class="menu-content"><div class="menu-banner-3 text-center"><a href="#"><img class="img-fluid" src="{{asset('assets/images/mega-menu-3.jpg')}}" alt="mega-menu-3.jpg" /></a></div></div></li></ul></div></li>
+                                                                    </ul></div></li><li class="item col-md-3 mw-40 html" ><div class="menu-content"><div class="menu-banner-3 text-center"><a href="#"><img class="img-fluid" src="{{asset('assets/front/images/mega-menu-3.jpg')}}" alt="mega-menu-3.jpg" /></a></div></div></li></ul></div></li>
                                             </ul></div></li>
                                     <li class="item  group" ><span class="opener"></span><a href="http://demo.bestprestashoptheme.com/savemart/ar/2-الصفحة-الرئيسية" title="Categories"><i class="zmdi zmdi-group"></i>Categories</a><div class="dropdown-menu" ><ul class=""><li class="item container group" ><div class="dropdown-menu" ><ul class=""><li class="item col-lg-3 col-md-3 html" ><span class="menu-title">Laptop</span><div class="menu-content"><ul class="col">
                                                                         <li><a href="#" title="EliteBook">EliteBook</a></li>
@@ -230,9 +230,9 @@
                                                                         <li><a href="#" title="Nokia ">Nokia </a></li>
                                                                     </ul></div></li></ul></div></li>
                                                 <li class="item container group" ><div class="dropdown-menu" ><ul class=""><li class="item  html" ><div class="menu-content"><div class="row">
-                                                                        <div class="col-12 col-lg-4 col-md-4 mt-xs-10 text-center"><a href="#"><img class="img-fluid" src="{{asset('assets/images/banner-mega-1.jpg')}}" alt="menu-banner-1" /></a></div>
-                                                                        <div class="col-4 col-lg-4 col-md-4 mt-xs-10 text-center"><a href="#"><img class="img-fluid" src="{{asset('assets/images/banner-mega-2.jpg')}}" alt="menu-banner-2" /></a></div>
-                                                                        <div class="col-4 col-lg-4 col-md-4 mt-xs-10 text-center"><a href="#"><img class="img-fluid" src="{{asset('assets/images/banner-mega-3.jpg')}}" alt="menu-banner-3" /></a></div>
+                                                                        <div class="col-12 col-lg-4 col-md-4 mt-xs-10 text-center"><a href="#"><img class="img-fluid" src="{{asset('assets/front/images/banner-mega-1.jpg')}}" alt="menu-banner-1" /></a></div>
+                                                                        <div class="col-4 col-lg-4 col-md-4 mt-xs-10 text-center"><a href="#"><img class="img-fluid" src="{{asset('assets/front/images/banner-mega-2.jpg')}}" alt="menu-banner-2" /></a></div>
+                                                                        <div class="col-4 col-lg-4 col-md-4 mt-xs-10 text-center"><a href="#"><img class="img-fluid" src="{{asset('assets/front/images/banner-mega-3.jpg')}}" alt="menu-banner-3" /></a></div>
                                                                     </div></div></li></ul></div></li>
                                             </ul></div></li>
                                 </ul>
